@@ -1,0 +1,23 @@
+.img-container {
+  min-height: 400px;
+  max-height: 400px;
+  min-width: auto;
+  max-width: auto;
+  margin: 0 1%;
+  margin-left: 0px;
+  flex-basis: 50%;
+  background-repeat: no-repeat;
+	background-size: cover;
+  border-radius: 10px;
+}
+
+#translator {
+  /* background-image: url("Assets/translator.png"); */
+  flex-basis: 98%;
+}
+
+#bookaholics {
+  /* background-image: url("../../Assets/bookaholics.png"); */
+  flex-basis: 98%;
+}
+

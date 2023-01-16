@@ -1,0 +1,18 @@
+*/ {
+  font-family: Helvetica, arial, sans-serif;
+}
+
+h1 {
+  padding: 20px;
+  margin-left: 12px;
+}
+
+.mainText {
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+#fields {
+  margin-left: 32px;
+  margin-right: 32px;
+}

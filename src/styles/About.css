@@ -1,0 +1,13 @@
+
+.img-container-cory {
+  background-image: url("../../public/Assets/cory_profile.jpg"); 
+  min-height: 220px;
+  min-width: 220px;
+  max-height: 220px;
+  max-width: 220px;
+  margin-left: 30px;
+  margin-right: 350px;
+  /* margin: 0 1%; */
+	background-size: cover;
+  border-radius: 8px;
+}
