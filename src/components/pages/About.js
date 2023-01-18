@@ -9,7 +9,8 @@ export default function About() {
       <h2 className='mainText'>About Me</h2>
       <br>
       </br>
-      <div className="img-container-cory" alt="A headshot image of person wearing a tie">
+      <div>
+        <img src="/Assets/cory_profile.jpg" className="img-container-cory" alt="A headshot of person wearing a tie"/>
       </div>
       <br>
       </br>
