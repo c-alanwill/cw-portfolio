@@ -12,13 +12,13 @@ export default function Portfolio() {
       <p className='mainText'>
         Below are some of my design and coding projects:
       </p>
-      <a href="https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/" alt="An image of the translator app"
+      <a href="https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/" 
       id="translator" className="img-container">
-      <img src="cw-portfolio/Assets/translator.png"/>
+      <img src="cw-portfolio/Assets/translator.png" alt="the translator app"/>
       </a>
-      <a href="https://bookaholicbootcampselina.herokuapp.com/" alt="An image of a stack of books representing bookaholics login page"
+      <a href="https://bookaholicbootcampselina.herokuapp.com/"
       id="bookaholics" className="img-container">
-      <img src="cw-portfolio/Assets/bookaholics.png"/>
+      <img src="cw-portfolio/Assets/bookaholics.png" alt="A stack of books representing bookaholics login page"/>
       </a>
     </div>
   );
