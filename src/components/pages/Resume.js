@@ -5,7 +5,10 @@ import '../../styles/Resume.css';
 export default function Resume() {
   return (
     <div>
-      <h1>My Resume</h1>
+      <h1>Cory Williams</h1> 
+      <h2 className='mainText'>My Resume</h2>
+      <br>
+      </br>
       <div className='mainText'>
           <h5 id="company">Alternative Rentals, Inc.</h5>
           Founder & CEO

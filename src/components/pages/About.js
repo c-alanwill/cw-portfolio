@@ -5,7 +5,10 @@ import '../../styles/About.css';
 export default function About() {
   return (
     <div>
-      <h1>About Me</h1>
+      <h1>Cory Williams</h1> 
+      <h2 className='mainText'>About Me</h2>
+      <br>
+      </br>
       <div className="img-container-cory" alt="A headshot image of person wearing a tie">
       </div>
       <br>

@@ -5,7 +5,10 @@ import '../../styles/Portfolio.css';
 export default function Portfolio() {
   return (
     <div>
-      <h1>My Portfolio</h1>
+      <h1>Cory Williams</h1> 
+      <h2 className='mainText'>My Portfolio</h2>
+      <br>
+      </br>
       <p className='mainText'>
         Below are some of my design and coding projects:
       </p>

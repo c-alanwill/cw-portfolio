@@ -50,7 +50,10 @@ function Contact() {
 
   return (
     <div>
-      <h1>Contact Me</h1>
+      <h1>Cory Williams</h1> 
+      <h2 className='mainText'>Contact Me</h2>
+      <br>
+      </br>
       <h5 className='mainText'>Hello, please enter your information to contact me.</h5>
       <form className="form" id="fields">
         <input
