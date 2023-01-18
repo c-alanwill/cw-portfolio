@@ -14,11 +14,11 @@ export default function Portfolio() {
       </p>
       <a href="https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/" 
       id="translator" className="img-container">
-      <img src="/Assets/translator.png" alt="the translator app"/>
+      <img src="./Assets/translator.png" alt="the translator app"/>
       </a>
       <a href="https://bookaholicbootcampselina.herokuapp.com/"
       id="bookaholics" className="img-container">
-      <img src="/Assets/bookaholics.png" alt="A stack of books representing bookaholics login page"/>
+      <img src="./Assets/bookaholics.png" alt="A stack of books representing bookaholics login page"/>
       </a>
     </div>
   );
