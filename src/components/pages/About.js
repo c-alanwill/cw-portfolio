@@ -10,7 +10,7 @@ export default function About() {
       <br>
       </br>
       <div>
-        <img src="/Assets/cory_profile.jpg" className="img-container-cory" alt="A headshot of person wearing a tie"/>
+        <img src={require("/Assets/cory_profile.jpg")} className="img-container-cory" alt="A headshot of person wearing a tie"/>
       </div>
       <br>
       </br>

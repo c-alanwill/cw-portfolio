@@ -31,7 +31,7 @@ The application uses `create-react-app` to build the portfolio, which includes t
 
 The code for this project can be found on GitHub at: https://github.com/c-alanwill/cw-portfolio
 
-The application is deployed to GitHub pages at: 
+The application is deployed to GitHub pages at: https://c-alanwill.github.io/cw-portfolio/#about
 
 ## Mock-Up
 
