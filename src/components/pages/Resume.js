@@ -9,7 +9,11 @@ export default function Resume() {
       <h2 className='mainText'>My Resume</h2>
       <br>
       </br>
-      <a className="mx-4" href="/Assets/cory-resume.pdf">Download Resume</a>
+      <a className="downloadText" href="/Assets/cory-resume.pdf">Download Resume</a>
+      <br>
+      </br>
+      <br>
+      </br>
       <div className='mainText'>
           <h5 id="company">Alternative Rentals, Inc.</h5>
           Founder & CEO

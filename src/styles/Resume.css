@@ -1,3 +1,8 @@
 #company {
   font-weight: bold;
 }
+
+.downloadText {
+  margin-left: 32px;
+  text-decoration: none;
+}
