@@ -50,7 +50,8 @@ function Contact() {
 
   return (
     <div>
-      <h1>Cory Williams</h1> 
+      <br>
+      </br>
       <h2 className='mainText'>Contact Me</h2>
       <br>
       </br>

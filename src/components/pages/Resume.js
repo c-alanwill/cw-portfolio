@@ -5,7 +5,8 @@ import '../../styles/Resume.css';
 export default function Resume() {
   return (
     <div>
-      <h1>Cory Williams</h1> 
+      <br>
+      </br>
       <h2 className='mainText'>My Resume</h2>
       <br>
       </br>

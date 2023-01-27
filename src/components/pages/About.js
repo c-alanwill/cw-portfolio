@@ -5,7 +5,8 @@ import '../../styles/About.css';
 export default function About() {
   return (
     <div>
-      <h1>Cory Williams</h1> 
+      <br>
+      </br>
       <h2 className='mainText'>About Me</h2>
       <br>
       </br>
