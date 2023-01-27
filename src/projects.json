@@ -4,7 +4,7 @@
     "image": "../Assets/translator.png",
     "title": "Translator App",
     "paragraph": "Compare 2 translators for accuracy.",
-    "repo": "https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/"
+    "repo": "https://github.com/fuuko08/Group04-Translator-Comparison-Web-App"
   },
 
   {
@@ -20,7 +20,7 @@
     "image": "../Assets/coding-quiz-challenge.png",
     "title": "Coding Quiz App",
     "paragraph": "A quiz to test one's coding knowledge.",
-    "repo": "https://c-alanwill.github.io/coding-quiz/"
+    "repo": "https://github.com/c-alanwill/coding-quiz"
   },
 
   {
@@ -43,7 +43,7 @@
     "url": "https://pwa-text-editor-cw.herokuapp.com/",
     "image": "../Assets/pwa-app.png",
     "title": "A Progressive Web App",
-    "paragraph": "A downloadable PWA text editor application.",
+    "paragraph": "A downloadable PWA text editor app.",
     "repo": "https://github.com/c-alanwill/PWA-Text-Editor"
   }
 
