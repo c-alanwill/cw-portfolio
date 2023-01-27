@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Main.css';
 
 function Footer() {
   return <footer className="d-flex justify-content-center my-5">

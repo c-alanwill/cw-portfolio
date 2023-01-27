@@ -1,4 +1,5 @@
 import React from 'react';
+import '../../styles/Main.css';
 import Projects from '../../projects.json';
 import { Card, Button, Col, CardGroup } from 'react-bootstrap';
 
