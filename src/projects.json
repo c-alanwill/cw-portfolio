@@ -1,7 +1,7 @@
 [
   {
     "url": "https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/",
-    "image": "../Assets/translator.png",
+    "image": "./Assets/translator.png",
     "title": "Translator App",
     "paragraph": "Compare 2 translators for accuracy.",
     "repo": "https://github.com/fuuko08/Group04-Translator-Comparison-Web-App"
@@ -9,7 +9,7 @@
 
   {
     "url": "https://bookaholicbootcampselina.herokuapp.com/",
-    "image": "../Assets/bookaholics.png",
+    "image": "./Assets/bookaholics.png",
     "title": "Bookaholics App",
     "paragraph": "A social media network for book lovers.",
     "repo": "https://github.com/fuuko08/Group-4-Bookaholic-Social-Media/"
@@ -17,7 +17,7 @@
 
   {
     "url": "https://c-alanwill.github.io/coding-quiz/",
-    "image": "../Assets/coding-quiz-challenge.png",
+    "image": "./Assets/coding-quiz-challenge.png",
     "title": "Coding Quiz App",
     "paragraph": "A quiz to test one's coding knowledge.",
     "repo": "https://github.com/c-alanwill/coding-quiz"
@@ -25,7 +25,7 @@
 
   {
     "url": "https://c-alanwill.github.io/Javascript-password-generator/",
-    "image": "../Assets/password-generator.png",
+    "image": "./Assets/password-generator.png",
     "title": "Password Generator App",
     "paragraph": "An app that generates a user password.",
     "repo": "https://github.com/c-alanwill/Javascript-password-generator"
@@ -33,7 +33,7 @@
 
   {
     "url": "https://c-alan-note-taker.herokuapp.com/",
-    "image": "../Assets/note-taker.png",
+    "image": "./Assets/note-taker.png",
     "title": "Notetaker App",
     "paragraph": "An app to write and store your notes.",
     "repo": "https://github.com/c-alanwill/note-taker"
@@ -41,9 +41,9 @@
 
   {
     "url": "https://pwa-text-editor-cw.herokuapp.com/",
-    "image": "../Assets/pwa-app.png",
-    "title": "A Progressive Web App",
-    "paragraph": "A downloadable PWA text editor app.",
+    "image": "./Assets/pwa-app.png",
+    "title": "Text Editor App",
+    "paragraph": "A downloadable progressive web app.",
     "repo": "https://github.com/c-alanwill/PWA-Text-Editor"
   }
 
