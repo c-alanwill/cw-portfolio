@@ -1,11 +1,11 @@
 import React from 'react';
 import '../../styles/Main.css';
 import '../../styles/Portfolio.css';
+import PortfolioCard from './Card'
+// import { Container } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 
-// import Button from 'react-bootstrap/Button';
-// import Card from 'react-bootstrap/Card';
-
-export default function Portfolio() {
+function Portfolio() {
   return (
     <div>
       <h1>Cory Williams</h1> 
@@ -15,33 +15,28 @@ export default function Portfolio() {
       <p className='mainText'>
         Below are some of my design and coding projects:
       </p>
-    
 
+      {/* <Container>
+        <PortfolioCard />
+      </Container> */}
+        <div className="row">
+          <div className="img-container">
+              <PortfolioCard />
+          </div>
+        </div>
+  
 
-      {/* <Card style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="./Assets/translator.png" alt="A translator app"/>
-        <Card.Body>
-          <Card.Title>Card Title</Card.Title>
-          <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
-          </Card.Text>
-          <Button variant="primary">GitHub</Button>
-        </Card.Body>
-      </Card> */}
-
-
-
-
-      <a href="https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/" 
+      {/* <a href="https://fuuko08.github.io/Group04-Translator-Comparison-Web-App/" 
       id="translator" className="img-container">
       <img className="my-5"src="./Assets/translator.png" alt="A translator app"/>
-      </a>
+      </a> */}
+
+
         {/* <a href="https://github.com/c-alanwill?tab=repositories">
         <i class="fa-brands fa-github display-6"></i>
         </a> */}
       
-      <a href="https://bookaholicbootcampselina.herokuapp.com/"
+      {/* <a href="https://bookaholicbootcampselina.herokuapp.com/"
       id="bookaholics" className="img-container">
       <img src="./Assets/bookaholics.png" alt="A stack of books representing bookaholics login page"/>
       </a>
@@ -64,8 +59,10 @@ export default function Portfolio() {
       <a href="https://pwa-text-editor-cw.herokuapp.com/"
       id="bookaholics" className="img-container">
       <img src="./Assets/pwa-app.png" alt="A PWA app"/>
-      </a>
+      </a> */}
 
     </div>
   );
 }
+
+export default Portfolio;

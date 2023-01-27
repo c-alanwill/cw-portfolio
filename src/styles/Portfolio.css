@@ -1,26 +1,5 @@
 .img-container {
-  /* min-height: 250px;
-  max-height: 250px; */
-  /* min-width: auto;
-  max-width: auto; */
-  /* margin: 0 1%; */
   margin-left: 32px;
   margin-bottom: 25px;
-  /* flex-basis: 50%; */
-  /* background-repeat: no-repeat; */
-	/* background-size: cover; */
   border-radius: 20px;
 }
-
-#translator {
-  /* background-image: url("Assets/translator.png"); */
-  /* flex-basis: 98%; */
-  margin-bottom: 40px;
-}
-
-#bookaholics {
-  /* background-image: url("../../Assets/bookaholics.png"); */
-  /* flex-basis: 98%; */
-  margin-bottom: 40px;
-}
-
