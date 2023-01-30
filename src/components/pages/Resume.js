@@ -2,6 +2,7 @@ import React from 'react';
 import '../../styles/Main.css';
 import '../../styles/Resume.css';
 
+// Resume Function
 export default function Resume() {
   return (
     <div>
@@ -13,10 +14,28 @@ export default function Resume() {
       <a className="downloadText" href="./Assets/cory-resume.pdf">Download Resume</a>
       <br>
       </br>
-      <br>
-      </br>
       <div className='mainText'>
-
+        <br></br>
+        <h4>Job Skills</h4>
+        <br></br>
+        <h5 id="company">Web Developer Skills:</h5>
+        Coding skills:  HTML, CSS, Bootstrap, JavaScript, Node.js, MySQL and React.
+        <br></br>  
+        GitHub for code hosting and version control.  
+        <br></br>
+        Proficient in design and UI/UX using Adobe Photoshop, Sketch and Figma.
+        <br></br>
+        <br></br>
+        <h5 id="company">Business Skills:</h5>
+        Proficient in management, sales, administration, finance and accounting.
+        <br></br>  
+       Use Word, Excel, FileMaker, Keynote, Quickbooks and more.
+        <br></br>
+        <br></br>
+        <br></br>
+        <h4>Work History</h4>
+        <br></br>
+      
         <h5 id="company">Full-Stack Developer</h5>
         UCLA Full-Stack Coding Bootcamp
         <br></br>

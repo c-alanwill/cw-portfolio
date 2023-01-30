@@ -11,8 +11,15 @@ h1 {
   font-family: Helvetica, arial, sans-serif;
 }
 
-h5, h2 {
+h5, h2, h4 {
   font-family: Helvetica, arial, sans-serif;
+}
+h4 {
+  text-decoration: underline;
+}
+
+h5 {
+  font-weight: bold;
 }
 
 #fields {

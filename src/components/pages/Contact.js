@@ -4,6 +4,7 @@ import '../../styles/Contact.css';
 
 import { validateEmail } from '../../utils/helpers';
 
+// Contact Function
 function Contact() {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');

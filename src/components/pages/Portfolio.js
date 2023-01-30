@@ -2,7 +2,7 @@ import React from 'react';
 import '../../styles/Main.css';
 import PortfolioCard from './Card';
 
-
+// Portfolio Function
 function Portfolio() {
   return (
     <div>

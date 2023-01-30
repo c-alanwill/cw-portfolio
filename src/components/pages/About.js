@@ -2,6 +2,7 @@ import React from 'react';
 import '../../styles/Main.css';
 import '../../styles/About.css';
 
+// About Function
 export default function About() {
   return (
     <div>

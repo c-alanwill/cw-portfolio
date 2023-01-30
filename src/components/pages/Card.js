@@ -3,6 +3,7 @@ import '../../styles/Main.css';
 import Projects from '../../projects.json';
 import { Card, Button, Col, CardGroup } from 'react-bootstrap';
 
+// Portfolio Card Function
 function PorfolioCard() {
   return (
     <>
