@@ -10,7 +10,7 @@ export default function Resume() {
       <h2 className='mainText'>My Resume</h2>
       <br>
       </br>
-      <a className="downloadText" href="/Assets/cory-resume.pdf">Download Resume</a>
+      <a className="downloadText" href="./Assets/cory-resume.pdf">Download Resume</a>
       <br>
       </br>
       <br>
